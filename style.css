@@ -4,6 +4,10 @@ body{
     background-color: #FFF9EE;
 }
 
+#banner{
+    height: 250px;
+}
+
 #logo{
     padding-left: 20px;
     padding-top: 20px;
@@ -16,4 +20,36 @@ body{
     color: #ED8D62;
     padding-left: 210px;
     padding-top: 0;
+}
+
+.navbar ul{
+    list-style-type: none;
+    justify-content: space-around;
+    display: flex;
+    max-width: 480px;
+}
+
+.navbar ul li{
+    display: inline;
+    font-size: 140px;
+    margin: 0 15px;
+}
+
+.navbar ul li a{
+    color: #EFA665;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar ul li a:hover{
+    text-decoration: underline;
+}
+
+.navbar ul li a:visited{
+    text-decoration: underline;
+}
+
+.navbar ul li a:active{
+    color: #ED8D62;
+    text-decoration: underline;
 }
