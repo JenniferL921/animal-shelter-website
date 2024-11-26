@@ -22,16 +22,24 @@ body{
     padding-top: 0;
 }
 
+.navbar{
+    max-width: 480px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .navbar ul{
     list-style-type: none;
     justify-content: space-around;
     display: flex;
-    max-width: 480px;
 }
 
 .navbar ul li{
     display: inline;
-    font-size: 140px;
+    font-size: 100px;
     margin: 0 15px;
 }
 
