@@ -36,12 +36,12 @@ body{
     list-style-type: none;
     justify-content: space-around;
     display: flex;
-    font-size: 75px;
 }
 
 .navbar ul li{
     display: inline;
     margin: 0 15px;
+    font-size: 75px;
 }
 
 .navbar ul li a{
