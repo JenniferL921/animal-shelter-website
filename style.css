@@ -41,7 +41,7 @@ body{
 .navbar ul li{
     display: inline;
     margin: 0 15px;
-    font-size: 75px;
+    font-size: 15%;
 }
 
 .navbar ul li a{
