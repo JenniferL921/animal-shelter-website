@@ -37,8 +37,9 @@ body{
 
 #donate{
     float: right;
-    margin-right: 20px;
-    margin-top: 20px;
+    position: relative;
+    right: 20px;
+    top: 20px;
 }
 
 .navbar{
@@ -48,6 +49,7 @@ body{
     text-align: center;
     display: flex;
     border-bottom: 2px solid #F2D6A5;
+    background-color: #FFF9EE;
 }
 
 .navbar ul{
