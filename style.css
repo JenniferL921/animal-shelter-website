@@ -25,3 +25,9 @@ body{
     font-weight: bold;
     margin: 0;
 }
+
+#banner #logo&name{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
