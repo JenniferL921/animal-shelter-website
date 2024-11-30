@@ -7,7 +7,8 @@ body{
 
 #banner{
     height: 250px;
-    display: inline;
+    display: flex;
+    align-items: center;
 }
 
 #logo{
@@ -76,12 +77,12 @@ table th tr td{
 
 th{
     color: #ED8D62;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 td{
     color: #EFA665;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 td img{
@@ -99,6 +100,7 @@ td img{
 
 p{
     color: #EFA665;
+    max-width: 600px;
 }
 
 #about img{
