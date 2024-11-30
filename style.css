@@ -60,7 +60,8 @@ body{
 }
 
 .navbar ul li{
-    display: inline;
+    display: flex;
+    justify-content: space-around;
     margin: 0 15px;
     font-size: 30px;
 }
