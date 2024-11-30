@@ -70,7 +70,7 @@ body{
 table th tr td{
     justify-content: space-around;
     border-color: #ED8D62;
-    border: solid 3px;
+    border: 3px solid;
     text-align: center;
 }
 
@@ -90,9 +90,10 @@ td img{
 
 .content{
     text-align: center;
+    display: inline;
 }
 
-.content h{
+.content h2{
     color: #ED8D62;
 }
 
