@@ -36,8 +36,6 @@ body{
 }
 
 #donate{
-    float: right;
-    position: relative;
     right: 20px;
     top: 20px;
 }
