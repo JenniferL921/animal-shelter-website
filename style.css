@@ -36,11 +36,14 @@ body{
 }
 
 #donate{
+    position: relative;
+    floar: right;
     right: 20px;
     top: 20px;
 }
 
 .navbar{
+    width: 100%;
     position: sticky;
     top: 0;
     z-index: 1000;
