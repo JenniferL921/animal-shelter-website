@@ -4,3 +4,15 @@ body{
     background-color: #FFF9EE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#banner{
+    height: 250px;
+    diaply: flex;
+    align-items: center;
+}
+
+#banner img{
+    align-slef: left;
+    width: 150px;
+    height: auto;
+}
