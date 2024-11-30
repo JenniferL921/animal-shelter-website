@@ -16,6 +16,7 @@ body{
     float: left;
     width: 150px;
     height: auto;
+    left: 20px;
 }
 
 #banner h1{
@@ -24,7 +25,7 @@ body{
     font-weight: bold;
     margin: 0;
     top: 20px;
-    left: 10px;
+    left: 20px;
 }
 
 #logo&name{
@@ -35,7 +36,7 @@ body{
 }
 
 #donate{
-    text-align: right;
+    float: right;
     margin-right: 20px;
     margin-top: 20px;
 }
