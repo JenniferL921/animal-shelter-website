@@ -15,4 +15,10 @@ body{
     align-slef: left;
     width: 150px;
     height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#banner h1{
+    color: #ED8D62;
 }
