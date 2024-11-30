@@ -39,9 +39,7 @@ body{
     z-index: 1000;
     text-align: center;
     display: flex;
-    align-items: center;
     border-bottom: 2px solid #F2D6A5;
-    padding: 10px 20px;
 }
 
 .navbar ul{
