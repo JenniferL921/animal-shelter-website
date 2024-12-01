@@ -3,6 +3,7 @@ body{
     height: 100%;
     background-color: #FFF9EE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 #banner{
@@ -33,13 +34,18 @@ body{
     flex-direction: columnn;
     align-items: flex-start;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 #donate{
     position: relative;
-    floar: right;
+    float: right;
     right: 20px;
     top: 20px;
+}
+
+#donate:hover{
+    background-color: #ED8D62;
 }
 
 .navbar{
