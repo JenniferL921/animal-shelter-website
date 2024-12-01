@@ -111,6 +111,11 @@ td img{
     width: 150px;
 }
 
+#img%mission img{
+    width: 200px;
+    height: auto;
+}
+
 .content{
     text-align: center;
     display: inline;
