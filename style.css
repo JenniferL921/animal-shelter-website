@@ -165,6 +165,10 @@ td{
     height: auto;
 }
 
+#contact{
+    background-color: #F2D6A5;
+}
+
 #contact ul{
     text-align: center;
     margin: 0 auto;
