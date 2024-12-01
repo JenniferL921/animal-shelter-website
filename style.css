@@ -111,18 +111,27 @@ td img{
     width: 150px;
 }
 
+#img&mission{
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+}
+
 #img&mission img{
     width: 400px;
     height: auto;
 }
 
-#img&mission tr th td{
+#img&mission th, td{
     border: none;
+    padding: 20px;
 }
 
 #img&mission td{
     max-width: 600px;
     text-align: center;
+    vertical-align: top;
+    word-wrap: break-word;
 }
 
 .content{
