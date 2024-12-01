@@ -85,13 +85,13 @@ body{
     text-align: center;
 }
 
-table{
+.content table{
     boder-collapse: collapse;
     width: 100%;
     margin: 20px 0;
 }
 
-th, td{
+.content th, td{
     border: 3px solid #ED8D62;
     padding: 10px;
     text-align: center;
@@ -116,7 +116,7 @@ td img{
     height: auto;
 }
 
-#img&mission{
+table {
     border: none;
 }
 
