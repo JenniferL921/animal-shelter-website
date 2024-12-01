@@ -80,17 +80,13 @@ body{
     text-decoration: underline;
 }
 
-.content{
-    text-align: center;
-}
-
-.content table{
+.adoptcontent table{
     boder-collapse: collapse;
     width: 100%;
     margin: 20px 0;
 }
 
-.content th, td{
+.adoptcontent th, td{
     border: 3px solid #ED8D62;
     padding: 10px;
     text-align: center;
@@ -106,22 +102,22 @@ td{
     font-size: 15px;
 }
 
-#img&mission{
+.content table{
     border-collapse: collapse;
     border: none;
 }
 
-#img&mission img{
-    width: 300px;
+.content img{
+    width: 200px;
     height: auto;
 }
 
-#img&mission th, #img&mission td{
+.content th td{
     border: none;
     padding: 20px;
 }
 
-#img&mission td{
+.content td{
     max-width: 500px;
     text-align: center;
     vertical-align: top;
