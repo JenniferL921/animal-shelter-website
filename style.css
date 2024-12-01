@@ -107,14 +107,13 @@ td{
     font-size: 15px;
 }
 
-td img{
+.content img{
     width: 150px;
 }
 
 #img&mission{
     border-collapse: collapse;
     border: none;
-    width: 100%;
 }
 
 #img&mission img{
@@ -122,7 +121,7 @@ td img{
     height: auto;
 }
 
-#img&mission th, #img&missiontd{
+#img&mission th, #img&mission td{
     border: none;
     padding: 20px;
 }
@@ -160,7 +159,8 @@ td img{
 }
 
 #volunteer img{
-    float: center;
+    display: block;
+    margin: 0 auto;
     width: 500px;
     height: auto;
 }
