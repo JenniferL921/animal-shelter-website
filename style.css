@@ -112,11 +112,11 @@ td img{
 }
 
 #img%mission img{
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 
-table {
+#img&mission tr th td{
     border: none;
 }
 
