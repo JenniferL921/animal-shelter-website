@@ -44,7 +44,7 @@ body{
     margin: 0;
     z-index: 1000;
     text-align: center;
-    border-bottom: 2px solid #F2D6A5;
+    border-bottom: 4px solid #F2D6A5;
     background-color: #FFF9EE;
     overflow: hidden;
 }
