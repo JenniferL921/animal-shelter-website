@@ -118,7 +118,7 @@ td img{
 }
 
 #img&mission img{
-    width: 400px;
+    width: 500px;
     height: auto;
 }
 
@@ -157,6 +157,12 @@ td img{
     text-align: left;
     margin: 10px 0;
     color: #EFA665;
+}
+
+#volunteer img{
+    float: center;
+    width: 500px;
+    height: auto;
 }
 
 #contact ul{
