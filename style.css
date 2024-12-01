@@ -114,7 +114,7 @@ td{
 }
 
 .content img{
-    width: 200px;
+    width: 350px;
     height: auto;
 }
 
@@ -124,7 +124,7 @@ td{
 }
 
 .content td{
-    max-width: 500px;
+    max-width: 400px;
     text-align: center;
     vertical-align: top;
     word-wrap: break-word;
