@@ -156,6 +156,7 @@ td img{
 #volunteer ol li{
     text-align: left;
     margin: 10px 0;
+    color: #EFA665;
 }
 
 #contact ul{
@@ -168,7 +169,7 @@ td img{
 #contact ul li{
     list-style-type: none;
     margin: 10px 0;
-    color: EFA665;
+    color: #EFA665;
 }
 
 h2, h3{
