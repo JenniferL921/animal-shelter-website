@@ -4,6 +4,7 @@ body{
     background-color: #FFF9EE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    text-align: center;
 }
 
 #banner{
@@ -70,6 +71,7 @@ body{
     justify-content: space-around;
     margin: 0 15px;
     font-size: 30px;
+    text-align: center;
 }
 
 .navbar ul li a{
@@ -135,3 +137,15 @@ p{
     width: 300px;
 }
 
+h2 h3{
+    color: #ED8D62;
+}
+
+h4{
+    color: #EFA665;
+}
+
+ol ul li{
+    text-decoration: none;
+    color: #EFA665;
+}
