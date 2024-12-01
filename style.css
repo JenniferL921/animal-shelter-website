@@ -122,13 +122,13 @@ td img{
     height: auto;
 }
 
-#img&mission th, td{
+#img&mission th, #img&missiontd{
     border: none;
     padding: 20px;
 }
 
 #img&mission td{
-    max-width: 600px;
+    max-width: 500px;
     text-align: center;
     vertical-align: top;
     word-wrap: break-word;
@@ -139,15 +139,36 @@ td img{
     display: inline;
 }
 
-p{
+#volunteer p{
     color: #EFA665;
     max-width: 600px;
     text-align: center;
+    margin: 0 auto;
 }
 
-#about img{
-    align-content: left;
-    width: 300px;
+#volunteer ol{
+    list-style-position: inside;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 600px;
+}
+
+#volunteer ol li{
+    text-align: left;
+    margin: 10px 0;
+}
+
+#contact ul{
+    text-align: center;
+    margin: 0 auto;
+    max-wdith: 600px;
+    padding: 0;
+}
+
+#contact ul li{
+    list-style-type: none;
+    margin: 10px 0;
+    color: EFA665;
 }
 
 h2, h3{
@@ -158,22 +179,4 @@ h2, h3{
 h4{
     color: #EFA665;
     text-align: center;
-}
-
-ul, li{
-    list-style-type: none;
-    color: #EFA665;
-    text-align: left;
-    align-items: center;
-}
-
-ol, ul{
-    list-style-position: outside;
-    text-align: left;
-}
-
-li{
-    text-align: left; 
-    margin: 0;
-    padding: 0;
 }
