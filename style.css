@@ -80,6 +80,11 @@ body{
     text-decoration: underline;
 }
 
+.adoptcontent img{
+    width: 200px;
+    height: auto;
+}
+
 .adoptcontent table{
     boder-collapse: collapse;
     width: 100%;
@@ -105,6 +110,7 @@ td{
 .content table{
     border-collapse: collapse;
     border: none;
+    width: 100%;
 }
 
 .content img{
