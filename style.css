@@ -111,31 +111,21 @@ td{
     width: 500px;
 }
 
-#img&mission{
-    border-collapse: collapse;
-    border: none;
+.content{
+    display: flex;
+    gap: 50px;
 }
 
-#img&mission img{
-    width: 500px;
+.aboutimg{
+    width: 300px;
     height: auto;
-}
-
-#img&mission th, #img&mission td{
-    border: none;
     padding: 20px;
 }
 
-#img&mission td{
-    max-width: 500px;
+.mission{
     text-align: center;
-    vertical-align: top;
-    word-wrap: break-word;
-}
-
-.content{
-    text-align: center;
-    display: inline;
+    max-width: 600px;
+    
 }
 
 #volunteer p{
@@ -178,12 +168,12 @@ td{
     color: #EFA665;
 }
 
-h2, h3{
+h2{
     color: #ED8D62;
     text-align: center;
 }
 
-h4{
+h3, h4{
     color: #EFA665;
     text-align: center;
 }
