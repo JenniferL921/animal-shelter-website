@@ -37,8 +37,6 @@ body{
     width: 100%;
 }
 
-
-
 .navbar{
     width: 100%;
     position: sticky;
@@ -118,10 +116,6 @@ td img{
     display: inline;
 }
 
-.content h2{
-    color: #ED8D62;
-}
-
 p{
     color: #EFA665;
     max-width: 600px;
@@ -134,13 +128,22 @@ p{
 
 h2, h3{
     color: #ED8D62;
+    text-align: center;
 }
 
 h4{
     color: #EFA665;
+    text-align: center;
 }
 
-ol, ul, li{
+ul, li{
     list-style-type: none;
     color: #EFA665;
+    text-align: center;
+}
+
+ol, li{
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
 }
