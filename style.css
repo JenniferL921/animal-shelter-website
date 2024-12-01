@@ -118,7 +118,7 @@ td{
     height: auto;
 }
 
-.content th, .content td{
+.content th{
     border: none;
     padding: 20px;
 }
@@ -129,6 +129,7 @@ td{
     vertical-align: top;
     word-wrap: break-word;
     border: none;
+    padding: 20px;
 }
 
 .content{
