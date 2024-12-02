@@ -190,6 +190,14 @@ h4{
     text-align: center;
 }
 
-hr{
-    color: #F2D6A5;
+#about{
+    border-bottom: 4px solid #F2D6A5;
+}
+
+#adopt{
+    border-bottom: 4px solid #F2D6A5;
+}
+
+#volunteer{
+    border-bottom: 4px solid #F2D6A5;
 }
