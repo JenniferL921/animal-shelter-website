@@ -191,6 +191,5 @@ h4{
 }
 
 hr{
-    color: #F2D6A5;
-    height: 3px;
+    border: 3px solid #F2D6A5;
 }
