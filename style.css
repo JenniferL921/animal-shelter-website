@@ -116,7 +116,7 @@ td{
 .content img{
     width: 400px;
     height: auto;
-    padding-left: 100px;
+    padding-left: 200px;
 }
 
 .content th{
@@ -130,7 +130,7 @@ td{
     vertical-align: top;
     word-wrap: break-word;
     border: none;
-    padding-right: 100px;
+    padding-right: 200px;
 }
 
 .content{
