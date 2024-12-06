@@ -34,7 +34,7 @@ body{
 
 #logoandname{
     display: flex;
-    flex-direction: column;
+    flex-direction: columnn;
     align-items: flex-start;
     margin-bottom: 20px;
     width: 100%;
@@ -49,6 +49,7 @@ body{
     text-align: center;
     border-bottom: 4px solid #F2D6A5;
     background-color: #FFF9EE;
+    overflow: hidden;
 }
 
 .navbar ul{
@@ -89,7 +90,7 @@ body{
 
 .adoptcontent table{
     border-collapse: collapse;
-    width: 90%;
+    width: 100%;
     margin: 20px 0;
 }
 
