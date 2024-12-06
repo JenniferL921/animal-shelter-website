@@ -37,6 +37,7 @@ body{
     flex-direction: row;
     align-items: flex-start;
     gap: 20px;
+    padding-left: 20px;
 }
 
 .navbar{
