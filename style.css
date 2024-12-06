@@ -20,7 +20,7 @@ body{
     float: left;
     width: 150px;
     height: auto;
-    margin-left: 20px;
+    padding-left: 20px;
 }
 
 #banner h1{
