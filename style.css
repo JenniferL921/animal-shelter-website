@@ -33,7 +33,7 @@ body{
     left: 20px;
 }
 
-#logo&name{
+#logoandname{
     display: flex;
     flex-direction: columnn;
     align-items: flex-start;
