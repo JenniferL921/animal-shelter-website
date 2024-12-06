@@ -90,7 +90,7 @@ body{
 }
 
 .adoptcontent table{
-    boder-collapse: collapse;
+    border-collapse: collapse;
     width: 100%;
     margin: 20px 0;
 }
