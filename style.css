@@ -21,14 +21,14 @@ body{
     float: left;
     width: 150px;
     height: auto;
+    padding-left: 10px;
 }
 
 #banner h1{
     position: relative;
     color: #ED8D62;
     font-weight: bold;
-    margin: 0;
-    top: 20px;
+    padding-top: 10px;
 }
 
 #logoandname{
