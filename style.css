@@ -119,12 +119,12 @@ td{
 .content img{
     width: 400px;
     height: auto;
-    padding-left: 300px;
+    padding-left: 200px;
 }
 
 .content th{
     border: none;
-    padding-right: 150px;
+    padding-right: 200px;
 }
 
 .content td{
